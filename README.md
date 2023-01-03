@@ -1,6 +1,7 @@
 # Micropython OTA Updater
 
 Originally forked from https://github.com/rdehuyss/micropython-ota-updater
+
 Then forked from https://github.com/bensherlock/micropython-ota-updater
 
 This code allows you to update several modules from unique github repos using wifi. 
@@ -109,4 +110,3 @@ The example `main.py` code is as follows:
     boot()
 ```
 
-For a live working example see [github.com/bensherlock/micropython-ota-updater-example-application](https://github.com/bensherlock/micropython-ota-updater-example-application).
