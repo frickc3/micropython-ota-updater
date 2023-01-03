@@ -1,6 +1,7 @@
 # Micropython OTA Updater
 
 Originally forked from https://github.com/rdehuyss/micropython-ota-updater
+Then forked from https://github.com/bensherlock/micropython-ota-updater
 
 This code allows you to update several modules from unique github repos using wifi. 
 The example below only updates on a Power On Reset (POR) event by connecting to the wifi then for each module checking the 
